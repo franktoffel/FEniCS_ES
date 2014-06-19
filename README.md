@@ -1,6 +1,6 @@
 FEniCS_ES
 =========
 
-Ejemplos de resolución de EDPs con FEniCS
+Ejemplo de resolución de EDP con FEniCS (Python)
 
-1. [Fundamentos de FEniCS](http://nbviewer.ipython.org/urls/raw.github.com/franktoffel/FEniCS_ES/master/FEniCS.ipynb)
+1. [Fundamentos de FEniCS](http://nbviewer.ipython.org/urls/raw.github.com/franktoffel/FEniCS_ES/master/introduccion-FEniCS.ipynb)
